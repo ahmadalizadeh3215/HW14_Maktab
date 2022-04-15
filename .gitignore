@@ -18,3 +18,13 @@
 /src/main/java/Twitter/Repository/TweetRepository.java
 /src/main/java/Twitter/Repository/UserInterface.java
 /src/main/java/Twitter/Repository/UserRepository.java
+/src/main/java/Twitter/Service/
+/src/main/java/Twitter/Service/BaseService.java
+/src/main/java/Twitter/Service/BaseServiceImpl.java
+/src/main/java/Twitter/Service/CommentService.java
+/src/main/java/Twitter/Service/FollowService.java
+/src/main/java/Twitter/Service/LikeService.java
+/src/main/java/Twitter/Service/TweetService.java
+/src/main/java/Twitter/Service/UserService.java
+/src/main/java/Twitter/Util/
+/src/main/java/Twitter/Util/SessionFactorySingleton.java
