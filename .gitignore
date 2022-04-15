@@ -30,3 +30,7 @@
 /src/main/java/Twitter/Util/SessionFactorySingleton.java
 /src/main/resources/
 /src/main/resources/hibernate.cfg.xml
+/target/
+/.gitignore
+/HW14.iml
+/pom.xml
