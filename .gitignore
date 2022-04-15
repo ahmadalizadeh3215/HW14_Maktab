@@ -28,3 +28,5 @@
 /src/main/java/Twitter/Service/UserService.java
 /src/main/java/Twitter/Util/
 /src/main/java/Twitter/Util/SessionFactorySingleton.java
+/src/main/resources/
+/src/main/resources/hibernate.cfg.xml
